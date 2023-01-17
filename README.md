@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 </div>
 
 #
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyun071&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle=hyun071&theme=cold"/>
