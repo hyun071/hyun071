@@ -10,10 +10,9 @@
 -->
 
 <h2>✨ HEEHYUN PARK ✨</h2>
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=shades-of-purple)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun071&layout=compact&theme=tokyonight)
-</p> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=shades-of-purple)
 
 <h2>✉ CONTACT</h2>
 <P><img src="https://img.shields.io/badge/rhdclsla@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></p>
