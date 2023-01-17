@@ -14,7 +14,7 @@
 <h2>✉ CONTACT</h2>
 <P><img src="https://img.shields.io/badge/rhdclsla@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></p>
 
-<h2>📚 STACKS</h2>
+<h2>📚 Tech Stack </h2>
 <p>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
