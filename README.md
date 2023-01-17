@@ -9,7 +9,7 @@
 
 -->
 
-<h2>✨ HEEHTUN PARK ✨</h2>
+<h2>✨ HEEHYUN PARK ✨</h2>
   
 #
 <h2>✉ CONTACT</h2>
