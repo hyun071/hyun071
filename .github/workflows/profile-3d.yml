@@ -5,16 +5,17 @@ on:
     - cron: "0 15 * * *"
   workflow_dispatch:
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ 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}}
-          hyun071: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{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 }}
+          USERNAME: ${{ github.hyun071 }}
       - name: Commit & Push
         run: |
           git config hyun071 github-actions
