@@ -21,8 +21,9 @@
 </p>
 
 #
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun071&layout=compact&theme=tokyonight)
 
-![hyun071's github stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true)
-[![hyun071's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun071&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hyun071)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=tokyonight )
   
 </div>
