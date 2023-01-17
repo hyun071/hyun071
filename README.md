@@ -26,10 +26,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=tokyonight )
   
-  
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-  
-![svg](https://raw.githubusercontent.com/hyun071/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
-
 </div>
