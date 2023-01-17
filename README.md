@@ -26,4 +26,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=tokyonight )
   
+  
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
+example: season version (Northern Hemisphere.)
+  
 </div>
