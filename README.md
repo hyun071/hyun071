@@ -23,6 +23,6 @@
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun071&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun071&layout=compact&theme=tokyonight)
   
 </div>
