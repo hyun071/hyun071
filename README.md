@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 -->
 
-<div align=center>✉ CONTACT</div>
+<div align=center><h2>✉ CONTACT</h2></div>
 <div align=center> 
 <a href="rhdclsla@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 
 #
-<div align=center>📚 STACKS</div>
+<div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
