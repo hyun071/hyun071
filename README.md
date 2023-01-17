@@ -9,9 +9,9 @@
 
 -->
 
-<h2>✨ HEEHYUN PARK ✨</h2>
+<h1>✨ HEEHYUN PARK ✨</h1>
 
-<h2>✉ CONTACT</h2>
+<h3>✉ CONTACT</h3>
 <P><img src="https://img.shields.io/badge/rhdclsla@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></p>
 
 <h2>📚 STACKS</h2>
