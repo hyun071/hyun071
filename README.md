@@ -1,4 +1,4 @@
-<div align=center> 
+<div align = center> 
 
 <!--
 **hyun071/hyun071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
